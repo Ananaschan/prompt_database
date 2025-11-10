@@ -1,0 +1,26 @@
+{
+  "画风": {
+    "写实": "realistic, photorealistic, 8k, uhd, detailed skin, intricate details",
+    "动漫": "anime style, key visual, vibrant, studio trigger, 2d, flat colors",
+    "水墨": "ink wash painting, chinese ink style, calligraphy, guohua",
+    "赛博朋克": "cyberpunk, neon lights, futuristic city, blade runner"
+  },
+  "人物": {
+    "少女": "1girl, young woman, beautiful face, detailed eyes, long hair",
+    "机甲": "mecha, robot, sci-fi, gundam style, mechanical parts",
+    "精灵": "elf, pointy ears, fantasy, elegant, magical",
+    "士兵": "soldier, military uniform, camouflage, tactical gear"
+  },
+  "动作": {
+    "站立": "standing, full body, looking at viewer",
+    "奔跑": "running, dynamic pose, motion blur, action shot",
+    "坐着": "sitting, sitting on chair, relaxed pose",
+    "战斗": "fighting stance, holding weapon, battle, intense"
+  },
+  "场景": {
+    "森林": "forest, dense trees, nature, sunlight, river",
+    "城市": "cityscape, futuristic city, skyscrapers, streets",
+    "海滩": "beach, ocean, sand, palm trees, sunny",
+    "太空": "outer space, galaxy, stars, spaceship, nebula"
+  }
+}
